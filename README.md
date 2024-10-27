@@ -38,7 +38,7 @@ npm install
 ```
 
 ## Live Link
-[Live Demo Link](https://rejaul48.github.io/simp-to-do-app/)
+[Live Demo Link](simple-todo-app.surge.sh)
 
 
 ## Contact me
