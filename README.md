@@ -38,7 +38,7 @@ npm install
 ```
 
 ## Live Link
-[Live Demo Link](simple-todo-app.surge.sh)
+[Live Demo Link](rejaul48-todo.surge.sh)
 
 
 ## Contact me
